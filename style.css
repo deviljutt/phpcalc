@@ -1,0 +1,110 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin:0px;
+	background:#311D1D;
+	
+}
+
+ul,ol,li,a,p,h1,h2,h3,h4,h5,h6{
+	padding:0px;
+	margin:0px;
+	list-style:none;
+	text-decoration:none;
+}
+
+
+.colortext {
+	color: brown;
+}
+
+.title{
+	  text-align: center;
+    font-size: 100px;
+    font-family: cursive;
+    color: white;
+    margin-top: 25px;
+    margin-bottom: 47px;
+}
+
+.containor {
+	width: 60%;
+	height: auto;
+	overflow: hidden;
+	background: #6B3E3F;
+	
+}
+
+.input {
+	text-align: center;
+}
+
+.btn {
+	
+	text-align: center;
+	margin-top: 28px;
+}
+
+.inputfield {
+	color: white;
+	text-align: center;
+	font-weight: bold; 
+	font-family: cursive;
+	border-left: #080510;
+	border-right: #080510;
+	border-style: groove;
+	background-color: #080510; 
+	font-size: 110%;
+	width: 395px;
+			}
+.selectbtn {
+	
+	color: white;
+	text-align: center;
+	font-weight: bold; 
+	font-family: cursive;
+	border-left: #080510;
+	border-right: #080510;
+	border-style: groove;
+	background-color: #080510; 
+	font-size: 95%;
+	cursor:pointer;
+}
+
+.para {
+	text-align: center;
+	font-size: 40px;
+	font-family: cursive;
+	color: white;
+	margin-top: 25px;
+	
+}
+
+.calculator {
+				font-family: cursive;
+				font-size: 78px;
+				color: white;
+				text-align: center;
+				margin-top: 30px;
+			}
+
+.footer {
+	left: 0px;
+	right: 0px;
+	bottom: 4px;
+	text-align: center;
+	color: teal;
+	font-family: Comic Sans Ms;
+	font-size: 120%;
+	position: fixed;
+			}
+
+
+a {
+				text-decoration: none;
+				color: red;
+			}
+a:hover {
+				color: lawngreen;
+			}
